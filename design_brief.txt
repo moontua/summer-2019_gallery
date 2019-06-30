@@ -1,0 +1,4 @@
+
+Write a quick design brief that includes color choices for main components ofyour web pages. Look at some example gallery websites and write down whatfeatures you like/dislike about them. Pick three topics that you would like to builda gallery for each web page.
+
+The main component of my web pages would be black and bright color such as red, blue, green, orange
