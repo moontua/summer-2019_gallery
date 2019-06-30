@@ -1,4 +1,13 @@
 
-Write a quick design brief that includes color choices for main components ofyour web pages. Look at some example gallery websites and write down whatfeatures you like/dislike about them. Pick three topics that you would like to builda gallery for each web page.
+The main component of my web pages would be black and bright color such as red, blue, green, orange. Whatever can make my main content stands out.
+I have visited some websites such as https://www.awwwards.com/, what I liked from it is: 
+1. It looks organize
+2. Specific about what is displaying on the thumbnail, and name of the person who made the work.
+I also visit https://thefwa.com/
 
-The main component of my web pages would be black and bright color such as red, blue, green, orange
+What I liked are: the contract colors between black and white, and dark colors. They made it interesting when the thumbnail is gradually move up as I scroll down.
+
+I also visited http://www.htmlinspiration.com/
+It looks totally contract with the  thefwa.com/, when thefwa.com/ has black and white and dark colors, this web pages has variable colors for each topic. 
+
+My topics would be the city at night and its beautiful when It comes to night. I chose it because I saw the city at night when I flew from US to TaiWan. My second topic is the famous places in the world. Finally, it is beautiful world around us at a random place. People don't really know where are the beautiful places at a place. All people know are the famous places and they think those places are beautiful. However, this'll prove them wrong. everything has it own secret and its beautifulness.
