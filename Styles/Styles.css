@@ -145,7 +145,7 @@ main p {
 
 footer {
     width: 700px;
-    /* height: 100px;*/
+    height: 130px;
     border: 1px black dotted;
     margin: 0 auto;
     margin-left: auto;
@@ -153,26 +153,18 @@ footer {
     font-family: "rubik";
     color: black;
     background-color: #606D9F;
+    padding-left: 10px;
 }
-/*
-#box1,
-#box4,
-#box7 {
-    background-color: red;
-}
-
-#box2,
-#box5,
-#box8 {
-    background-color: blue;
+.zoom {
+  transition: transform .2s; /* Animation */
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
 }
 
-#box3,
-#box6,
-#box9 {
-    background-color: green;
-}
-*/
+.zoom:hover {
+  transform: scale(1.5);
+
 p,  a {
 	text-align: center;
 }
